@@ -1,336 +1,240 @@
-<!-- ============================ -->
-<!--       MOHIT MUNDKE README    -->
-<!-- ============================ -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=Mohit%20Mundke&fontSize=70&fontColor=ffffff&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=65&descAlign=50&animation=fadeIn" />
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Mohit%20Mundke&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Explorer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=750&lines=Hi+%F0%9F%91%8B+I'm+Mohit+Mundke;Software+Engineering+Enthusiast;Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Building+Ideas+Into+Real+World+Products" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Building+scalable+software+and+intelligent+products;Full+Stack+Developer+with+a+Product+Engineering+Mindset;Exploring+AI%2C+ML%2C+Cloud+and+Modern+Software+Systems;Turning+ideas+into+real-world+digital+experiences" alt="Typing SVG" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science%20Student-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-4F46E5?style=for-the-badge&logo=codefactor&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-312E81?style=flat-square&logo=googlemaps&logoColor=white" />
-</p>
-
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/mohit-mundke-239439352">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohitmundke20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/mohitmundke">
-    <img src="https://img.shields.io/badge/GitHub-Follow-1E1B4B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://mohitmundke.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitmundke&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" />
-  <a href="https://github.com/mohitmundke?tab=followers">
-    <img src="https://img.shields.io/github/followers/mohitmundke?label=FOLLOWERS&style=flat-square&color=4F46E5" />
-  </a>
-  <img src="https://img.shields.io/github/stars/mohitmundke?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat-square&color=8B5CF6" />
-</p>
+<br>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohitmundke&style=for-the-badge&color=7C3AED" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mohitmundke?style=for-the-badge&logo=github&color=6D28D9" alt="followers" />
+  <img src="https://img.shields.io/github/stars/mohitmundke?style=for-the-badge&logo=github&color=8B5CF6" alt="stars" />
+</div>
 
-# About
+<br>
 
-I am **Mohit Mundke**, a software engineering-focused developer passionate about building products that combine **strong engineering foundations, intelligent systems, and meaningful user experiences**.
-
-My work sits at the intersection of **Full Stack Development, AI/ML, product engineering, and scalable software systems**. I enjoy taking an idea from an early concept and transforming it into a structured, functional, and production-oriented solution.
-
-I focus on:
-
-- Building modern, responsive, and scalable full-stack applications
-- Designing practical solutions using **AI and Machine Learning**
-- Writing clean, maintainable, and structured software
-- Solving real-world problems through product-driven engineering
-- Exploring cloud technologies, developer tooling, and modern software architecture
-- Continuously improving through projects, experimentation, and open-source development
-
-### Open To
-
-- Software Engineering Internships
-- Full Stack Development Opportunities
-- AI / ML Engineering Projects
-- Product Engineering Collaborations
-- Open Source Contributions
-- Hackathons and Innovation Challenges
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohitmundke&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" width="100%" alt="GitHub Trophies" />
+</div>
 
 ---
 
-# Tech Stack
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212744275-cd8154c2-2706-4c94-b8ee-7c4f85a3f52d.gif">
 
-### Languages
+### 👨‍💻 About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,html,css&theme=dark" />
-</p>
+- 🎓 Computer Science & Software Engineering enthusiast
+- 🤖 Exploring **Artificial Intelligence and Machine Learning**
+- 💻 Building modern **Full Stack Applications**
+- 🌱 Currently learning **System Design, AI/ML and Cloud Technologies**
+- 🚀 Passionate about turning ideas into real-world digital products
+- 🌟 Google Gemini Student Ambassador
+- 💼 Interested in Software Engineering, AI Engineering and Product Development
+- 📫 Reach me at **mohitmundke20@gmail.com**
 
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css&theme=dark" />
-</p>
-
-### Backend & Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&theme=dark" />
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel&theme=dark" />
-</p>
+<br clear="right"/>
 
 ---
 
-# AI / ML Expertise
+### 🐍 Contribution Snake
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | Developing | Building predictive models and experimenting with real-world datasets |
-| Artificial Intelligence | Developing | Exploring intelligent systems, AI-powered applications, and automation |
-| Python for AI | Strong | Data processing, ML experimentation, backend logic, and automation |
-| Data Analysis | Developing | Data exploration, preprocessing, visualization, and insight generation |
-| Intelligent Products | Strong Interest | Integrating AI capabilities into practical software products |
-| Model Integration | Developing | Connecting AI/ML capabilities with full-stack applications |
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>🏥 Wellness Healthcare Platform</b></summary>
-
-<br/>
-
-A modern healthcare-focused digital platform designed with a strong emphasis on **user experience, accessibility, structured information flow, and real-world usability**.
-
-The project focuses on creating a professional healthcare experience where users can explore services, access wellness information, and interact with a clean, responsive interface.
-
-| Category | Details |
-|---|---|
-| **Stack** | Modern Frontend, JavaScript, Responsive UI, Web Technologies |
-| **Scale** | Multi-section product experience with reusable interface components |
-| **Performance** | Optimized layouts and responsive design for smooth user interaction |
-| **Security** | Structured application architecture with secure development practices |
-| **Impact** | Demonstrates product thinking and healthcare-focused digital experience design |
-| **Repository** | Available through my GitHub portfolio |
-
-**Engineering Focus:**  
-The project emphasizes product structure, maintainable frontend implementation, responsive design, and creating a polished experience for a real-world domain.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>🌱 SoilO Sync — Smart Soil Monitoring System</b></summary>
-
-<br/>
-
-**SoilO Sync** is a technology-driven soil monitoring concept focused on connecting environmental data with software systems to help users better understand soil conditions.
-
-The project demonstrates the combination of **software engineering, data monitoring, IoT-oriented thinking, and intelligent agriculture solutions**.
-
-| Category | Details |
-|---|---|
-| **Stack** | Python, Web Technologies, Data Monitoring, Sensor-Oriented Systems |
-| **Scale** | Designed as a modular smart monitoring solution |
-| **Performance** | Structured to support efficient data collection and visualization |
-| **Security** | Focus on controlled system architecture and reliable data handling |
-| **Impact** | Demonstrates technology applications for agriculture and environmental monitoring |
-| **Repository** | [View Repository](https://github.com/mohitmundke/soilOsync) |
-
-**Engineering Focus:**  
-The system explores how software can transform raw environmental information into useful insights for smarter decision-making.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>💡 Full Stack & Product Engineering Projects</b></summary>
-
-<br/>
-
-A collection of software projects focused on solving practical problems through modern web technologies, structured application architecture, and product-oriented development.
-
-| Category | Details |
-|---|---|
-| **Stack** | React, JavaScript, Node.js, Databases |
-| **Scale** | Modular applications with reusable components |
-| **Performance** | Responsive interfaces and optimized workflows |
-| **Security** | Structured validation and secure development practices |
-| **Impact** | Focused on converting ideas into usable digital products |
-| **Repository** | [Explore GitHub](https://github.com/mohitmundke) |
-
-**Engineering Focus:**  
-These projects represent continuous experimentation with frontend systems, backend architecture, APIs, databases, and real-world product development.
-
-</details>
-
----
-
-# Experience
-
-### Google Gemini Student Ambassador
-
-**Campus Innovation & Technology Community**  
-**2026 — Present**
-
-Working as a student technology ambassador focused on building awareness around emerging technologies, innovation, and AI-driven problem solving.
-
-**Scope of Work**
-
-- Organizing technology-focused initiatives and campus activities
-- Connecting with students, developers, and innovators
-- Promoting experimentation with modern AI tools and technologies
-- Building community engagement around innovation
-- Developing communication, leadership, and product-thinking skills
-
-<p>
-  <img src="https://img.shields.io/badge/Community%20Building-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Innovation-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Leadership-4F46E5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Product%20Thinking-8B5CF6?style=flat-square" />
-</p>
-
----
-
-# Achievements
-
-<p align="center">
-
-| Recognition | Details |
-|---|---|
-| Google Gemini Student Ambassador | Representing and engaging students around AI, innovation, and emerging technology |
-| First Project Income | Achieved an important personal milestone by earning through technical and creative work |
-| Project Development | Built multiple real-world portfolio projects across healthcare, agriculture, and software |
-| Continuous Learning | Actively expanding knowledge across software engineering, AI/ML, and modern development tools |
-
-</p>
-
----
-
-# Certifications
-
-### AWS
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Learning-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-### Oracle
-
-<p>
-  <img src="https://img.shields.io/badge/Oracle-Technology%20Learning-4F46E5?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### NPTEL
-
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Technical%20Learning-6D28D9?style=for-the-badge" />
-</p>
-
-### Cisco
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Technology-312E81?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
----
-
-# Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20%26%20Algorithms-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Coding%20Practice-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-</p>
-
----
-
-# GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohitmundke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=E2E8F0" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmundke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmundke&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" />
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohitmundke&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmundke&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A855F7&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/mohitmundke/mohitmundke/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
+</div>
+
+> **Note:** The snake will appear after you set up the GitHub Action and the `output` branch is generated.
 
 ---
 
-# Current Focus
+### 🛠️ Technologies & Tools
+
+<div align="center">
+
+#### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,html,css&theme=dark" />
+
+<br><br>
+
+#### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css&theme=dark" />
+
+<br><br>
+
+#### ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&theme=dark" />
+
+<br><br>
+
+#### ☁️ Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,vercel&theme=dark" />
+
+</div>
+
+---
+
+### 🤖 AI / ML Focus
+
+<div align="center">
+
+| Domain | Focus |
+|---|---|
+| 🤖 Artificial Intelligence | AI-powered applications and intelligent systems |
+| 🧠 Machine Learning | Data-driven models and real-world experimentation |
+| 🐍 Python | Automation, AI/ML workflows and backend development |
+| 📊 Data Analysis | Data processing, insights and visualization |
+| 🚀 AI Products | Integrating intelligent features into software products |
+
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+### 🏥 Wellness Healthcare Platform
+
+> A modern healthcare-focused digital platform designed to provide an intuitive and professional user experience.
+
+- 🏥 Healthcare and wellness-focused solution
+- 💻 Modern responsive web architecture
+- 🎨 Professional UI/UX experience
+- 📱 Mobile-friendly and accessible design
+- 🚀 Built with a product engineering mindset
+
+**Focus:** `Full Stack Development` `Product Design` `Healthcare Technology`
+
+---
+
+### 🌱 [SoilO Sync — Smart Soil Monitoring System](https://github.com/mohitmundke/soilOsync)
+
+> A smart technology solution focused on soil monitoring and environmental data.
+
+- 🌱 Smart agriculture-focused system
+- 📊 Environmental and soil data monitoring
+- 🔗 Combines software with IoT-oriented thinking
+- 🤖 Designed for intelligent decision-making
+- 🚀 Real-world technology application
+
+**Focus:** `Python` `Data Monitoring` `Smart Agriculture` `IoT Concepts`
+
+---
+
+### 💻 Full Stack Development Projects
+
+> A growing collection of applications focused on solving real-world problems using modern software engineering principles.
+
+- ⚡ Responsive and scalable web applications
+- 🔗 API integration and backend systems
+- 🗄️ Database-driven applications
+- 🎨 Clean and modern interfaces
+- 🧩 Modular and maintainable architecture
+
+**Focus:** `React` `Node.js` `Databases` `APIs` `Product Engineering`
+
+---
+
+### 🏆 Experience & Leadership
+
+#### 🌟 Google Gemini Student Ambassador
+
+- Representing innovation and AI initiatives on campus
+- Connecting with students, developers and technology enthusiasts
+- Organizing technology-focused activities and events
+- Promoting experimentation with AI and emerging technologies
+- Developing leadership, communication and community-building skills
+
+<div>
+  <img src="https://img.shields.io/badge/AI%20Innovation-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Leadership-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Community%20Building-4F46E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Product%20Thinking-8B5CF6?style=flat-square" />
+</div>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohitmundke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=ffffff" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmundke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="180" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmundke&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" height="180" />
+
+</div>
+
+---
+
+### 📊 GitHub Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitmundke&theme=tokyonight" width="95%" />
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitmundke&theme=tokyonight" height="180" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitmundke&theme=tokyonight" height="180" />
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitmundke&theme=tokyonight" height="180" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitmundke&theme=tokyonight&utcOffset=5.5" height="180" />
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmundke&custom_title=Mohit's%20Contribution%20Graph&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A855F7&area=true&hide_border=true" width="95%" alt="activity graph">
+</div>
+
+---
+
+### 🎯 Current Focus
 
 ```yaml
 Learning:
-  - Advanced Software Engineering Concepts
-  - Artificial Intelligence and Machine Learning
-  - Scalable System Design
+  - Advanced Software Engineering
+  - Artificial Intelligence
+  - Machine Learning
+  - System Design
   - Cloud Technologies
 
 Building:
   - Full Stack Applications
   - AI-Integrated Products
   - Real-World Problem Solving Projects
-  - Portfolio-Grade Engineering Systems
+  - Scalable Digital Experiences
 
 Exploring:
   - Open Source
@@ -339,9 +243,8 @@ Exploring:
   - Intelligent Software Systems
 
 Open_To:
-  - Internships
+  - Software Engineering Internships
+  - AI / ML Opportunities
   - Collaborations
   - Hackathons
   - Open Source Contributions
-  - Software Engineering Opportunities
-  </p>
